@@ -43,8 +43,7 @@ I care about clean code, scalable systems, and continuous learning.
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amirreza-jalili&show_icons=true&theme=default&title_color=fb8c00)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amirreza-jalili&show_icons=true&theme=default&title_color=fb8c00&icon_color=fb8c00)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amirreza-jalili&layout=compact&theme=default)
 
@@ -54,7 +53,7 @@ I care about clean code, scalable systems, and continuous learning.
 
 ## 📫 Contact
 
-- Email: your.email@example.com
+- Email:[amir129631reza@gmail.com](mailto:amir129631reza@gmail.com)
 - LinkedIn: https://linkedin.com/in/your-profile
 - Instagram: https://instagram.com/your-profile
 - Telegram: https://t.me/yourusername
