@@ -59,5 +59,3 @@ I care about clean code, scalable systems, and continuous learning.
 - Telegram: https://t.me/yourusername
 
 ---
-
-> Minimal build. Maximum impact.
