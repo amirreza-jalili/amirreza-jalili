@@ -16,11 +16,13 @@ I care about clean code, scalable systems, and continuous learning.
 
 ### Frontend
 
-- HTML
-- CSS
-- JavaScript
-- React
-- Tailwind CSS
+<div style="display:flex; align-items:center;justify-content:space-around;">
+<img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black">&nbsp;
+<img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB">&nbsp;
+<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white">
+</div>
 
 ### Tools
 
