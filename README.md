@@ -43,7 +43,8 @@ I care about clean code, scalable systems, and continuous learning.
 
 ## 📊 GitHub Stats
 
-![amirreza-jalili GitHub stats](https://github-readme-stats.vercel.app/api?username=amirreza-jalili&show_icons=true&theme=transparent)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amirreza-jalili&show_icons=true&theme=default)
+
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=default)
 
