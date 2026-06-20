@@ -1,16 +1,63 @@
-## Hi there 👋
+# Amir
 
+### Web Developer | Python Learner | AI Enthusiast
 
-**amirreza-jalili/amirreza-jalili** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🧠 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Focused on building modern web applications and gradually moving toward Full-Stack development and Artificial Intelligence.
 
+I care about clean code, scalable systems, and continuous learning.
+
+---
+
+## ⚙️ Tech Stack
+
+### Frontend
+
+- HTML
+- CSS
+- JavaScript
+- React
+- Tailwind CSS
+
+### Tools
+
+- Git
+- VS Code
+
+### Currently Learning
+
+- Python
+
+---
+
+## 🎯 Goals
+
+- Become a Full-Stack Developer
+- Specialize in Python & AI
+- Build real-world, production-level projects
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=default)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME)
+
+---
+
+## 📫 Contact
+
+- Email: your.email@example.com
+- LinkedIn: https://linkedin.com/in/your-profile
+- Instagram: https://instagram.com/your-profile
+- Telegram: https://t.me/yourusername
+
+---
+
+> Minimal build. Maximum impact.
