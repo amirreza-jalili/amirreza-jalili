@@ -16,7 +16,7 @@ I care about clean code, scalable systems, and continuous learning.
 
 ### Frontend
 
-- HTML
+![HTML](https://img.shields.io/badge/HTML-HTML5-orange?logo=html5&logoColor=white&color=orange)
 - CSS
 - JavaScript
 - React
